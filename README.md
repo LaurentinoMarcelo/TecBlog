@@ -18,7 +18,7 @@
 
 ## 💻Sobre o projeto
 
-💻 TecBlog foi um projeto desenvolvido durante o curso de Desenvolvimento Web ministrado pelo professor Jamilton Damasceno
+💻 TecBlog foi um projeto desenvolvido durante o curso de Desenvolvimento Web ministrado pelo professor Jamilton Damasceno.
 
 Esse projeto foi desenvolvido para o estudo de implementação de conceitos básicos e boas práticas adotados na criação de páginas web abordado diversos temas como posicionameto estático e relativo, listas, navegação, sobreposição de elementos, formtação de links...
 ---
@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido para o estudo de implementação de conceitos bás
 
   Página Index:
   
-  Nesta página estava localizada as informações principais referente ao Blog, com uma barra de navegação, seguido de uma barra de navegação lateral e no centro o conteúdo do blog, povoado de artigos criados com links personalizados
+  Nesta página esta localizado as informações principais referente ao Blog, com uma barra de navegação, seguido de uma barra de navegação lateral e no centro o conteúdo do blog, povoado de artigos criados com links personalizados.
   
   <img title="Página produtos" src="tela-principal.png" />
   
@@ -38,8 +38,8 @@ Esse projeto foi desenvolvido para o estudo de implementação de conceitos bás
 
 ## 🎨Layout
 
-O layout foi fornecido pelo professor do Jamilton Damasceno 
-[Jamilton Damasceno](https://www.linkedin.com/in/jamiltondamasceno/) :
+O layout foi fornecido pelo professor 
+[Jamilton Damasceno](https://www.linkedin.com/in/jamiltondamasceno/).
 
 
 ### 🛠Tecnologias
