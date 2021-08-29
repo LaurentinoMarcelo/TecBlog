@@ -1,7 +1,7 @@
 # Site TecBlog
-## Site voltado a apresetação de uma página principal de um blog de tecnologia, onde apresenta o escopo da página segue o padrão ultilizado pelos blogs atuais.
+## Site voltado a apresetação de uma página principal de um blog de tecnologia, onde apresenta o escopo da página que segue o padrão ultilizado pelos blogs atuais.
 <h1 align="center">
-  <img title="TecBlog" src="" />
+  <img title="TecBlog" src="Imagens/logo_blog" />
 </h1>
 
 <p align="center">
