@@ -1,7 +1,7 @@
 # Site TecBlog
 ## Site voltado a apresetação de uma página principal de um blog de tecnologia, onde apresenta o escopo da página que segue o padrão ultilizado pelos blogs atuais.
 <h1 align="center">
-  <img title="TecBlog" src="Imagens/logo_blog" />
+  <img title="TecBlog" src="logo_blog.png" />
 </h1>
 
 <p align="center">
@@ -9,54 +9,37 @@
  <a href="#funcionalidades">Funcionalidades</a> •
  <a href="#layout">Layout</a> • 
  <a href="#tecnologias">Tecnologias</a> • 
- <a href="#user-content--licença">Licença</a>
 </p>
 
 <h4 align="center"> 
-	 TecBlog ✂️ Finalizado
+	 TecBlog 💻 Finalizado
 </h4>
 
 
 ## 💻Sobre o projeto
 
-✂️ Barbearia-Alura foi um projeto que desenvolvido durante os módulos de formação de front-end da Alura no que diz respeito a html e ccs.
+💻 TecBlog foi um projeto desenvolvido durante o curso de Desenvolvimento Web ministrado pelo professor Jamilton Damasceno
 
-Esse projeto foi desenvolvido para o estudo de implementação de conceitos básicos e boas práticas adotados na criação de páginas web abordado diversos temas como posicionameto, listas, navegação, formularios, tabelas...
+Esse projeto foi desenvolvido para o estudo de implementação de conceitos básicos e boas práticas adotados na criação de páginas web abordado diversos temas como posicionameto estático e relativo, listas, navegação, sobreposição de elementos, formtação de links...
 ---
 
 ## ⚙Funcionalidades
 
--Basicamente o site consiste de apenas 3 páginas pois o fim é apenas didático e introdutório no html e css, sendo essas páginas o index, produtos e contato:
+-Basicamente o projeto consiste de apenas uma páginas principal pois o fim é apenas didático e introdutório no html e css, sendo essa página o index:
 
   Página Index:
   
-  Nesta página estava localizada as informações principais referente a barbearia, com uma barra de navegação, seguido de um texto introdutório, uma localização importada no google maps e um video próximo ao rodapé importado do youtube. Nessa página foi abordada conceitos basilares como encadeamento, tags utilizada para a criação de um arquivo html, implementação de fonte externa e muito mais...
+  Nesta página estava localizada as informações principais referente ao Blog, com uma barra de navegação, seguido de uma barra de navegação lateral e no centro o conteúdo do blog, povoado de artigos criados com links personalizados
   
-  <img title="Página produtos" src="pagina-index1.png" />
+  <img title="Página produtos" src="tela-principal.png" />
   
-  <img title="Página produtos" src="pagina-index2.png" />
+  <img title="Página produtos" src="mais_telas.png" />
   ---
-  
-  Página Produtos ofertados:
-  
-  Nesta página estava os produtos ofertados pela barbearia, onde o desenvolvimento dessa página tinha mais como objetivo trabalhar o css através da implementação de hover, box-sizing e border em listas.
- 
- <img title="Página produtos" src="pagina-produtos.png" />
- 
- ---
- 
-  Página Contatos:
-  
-  Na página contato iniciamos os trabalhos com a criação de formulário, com a implemetação da label e varios tipos de input(checkbox, radio, text, email, tel e sunmit).
-  
-<img title="Página produtos" src="pagina-contato.png" />
-
----
 
 ## 🎨Layout
 
-O layout foi fornecido pelo professor do Alura 
-[Pedro Marins](https://www.linkedin.com/in/pedromarins/) :
+O layout foi fornecido pelo professor do Jamilton Damasceno 
+[Jamilton Damasceno](https://www.linkedin.com/in/jamiltondamasceno/) :
 
 
 ### 🛠Tecnologias
@@ -67,11 +50,3 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [CSS](https://www.w3schools.com/css/)
 - [VisualStudio](https://visualstudio.microsoft.com/pt-br/)
 
----
-
-
-## 📝Licença
-
-Este projeto esta sobe a licença [MIT](./LICENSE).
-
-Feito por Marcelo Laurentino👋🏽 [Entre em contato!](https://www.linkedin.com/in/marcelo-laurentino-8a54ba114/)
